@@ -2437,8 +2437,8 @@ input, select, textarea {
 			}
 
 			.icon.alt:before {
-				color: #1c1d26 !important;
-				text-shadow: 1px 0 0 #ffffff, -1px 0 0 #ffffff, 0 1px 0 #ffffff, 0 -1px 0 #ffffff;
+				color: #ffffff !important;
+				text-shadow: 1px 0 0 #808080, -1px 0 0 #808080, 0 1px 0 #808080, 0 -1px 0 #808080;
 			}
 
 		.icon.major {
@@ -4072,7 +4072,7 @@ input, select, textarea {
 	}
 
 	.skills-header{
-		font-size: 60px;
+		font-size: 40px;
 		line-height: 0;
 		margin: 40px
 	}
